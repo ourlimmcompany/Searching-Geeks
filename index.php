@@ -16,7 +16,7 @@
     <style>
 
     /* GLOBAL STYLES
-    -------------------------------------------------- */
+    --------------------------------------------------- */
     /* Padding below the footer and lighter body text */
 
     body {
