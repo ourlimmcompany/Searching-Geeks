@@ -2,10 +2,10 @@
 <!-- saved from url=(0057)http://twitter.github.io/bootstrap/examples/carousel.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Ourlimm Consulting IT Business Services</title>
+    <title>Ourlimm Consulting & IT Business Services</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ourlimm Consulting IT Business Services">
-    <meta name="author" content="Ourlimm Consulting IT Business Services">
+    <meta name="description" content="Ourlimm Consulting & IT Business Services">
+    <meta name="author" content="Ourlimm Consulting & IT Business Services">
     <meta name="email" content="informes@ourlimm.com">
     <meta content="company" property="og:type" />
     <meta content="http://www.ourlimm.com/" property="og:url" />
@@ -288,7 +288,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="index.php#">Ourlimm Consulting IT Business Services</a>
+            <a class="brand" href="index.php#">Ourlimm Consulting & IT Business Services</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
@@ -309,9 +309,11 @@
                   <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">Servicios <b class="caret"></b></a>
                   <ul class="dropdown-menu">                   
                     <li class="nav-header">Consultoría</li>
-                    <li><a href="index.php#">Consultoría IT</a></li>
+                    <li><a href="index.php#">Consultoría en Tecnología de la Información (TI)</a></li>
                     <li><a href="index.php#">Consultoría de Sistemas</a></li>
                     <li><a href="index.php#">Consultoría Empresarial</a></li>
+                    <li><a href="index.php#">Consultoría en Administración Estratégica</a></li>
+                    <li><a href="index.php#">Consultoría en Redes</a></li>
                     <li><a href="index.php#">Consultoría en Google Apps</a></li>
                     <li><a href="index.php#">Consultoría en Google Engage & Adwords</a></li>
                     <li class="divider"></li>
@@ -342,6 +344,15 @@
                   <ul class="dropdown-menu">
                    <li class="nav-header">Insigths</li>
                     <li><a href="index.php#">Ideas y Modelos de Negocio</a></li>                     
+                  </ul>
+                </li>
+                <!---->
+                 <li class="dropdown">
+                  <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">Insights <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                   <li class="nav-header">Insigths</li>
+                    <li><a href="index.php#">Perspectivas de la Industria</a></li>  
+                    <li><a href="index.php#">Capacidad de Ideas</a></li>                    
                   </ul>
                 </li>
                 <!---->
