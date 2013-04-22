@@ -2,10 +2,10 @@
 <!-- saved from url=(0057)http://twitter.github.io/bootstrap/examples/carousel.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Ourlimm Consulting & IT Business Services</title>
+    <title>Ourlimm Consulting IT Business Services</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ourlimm Consulting & IT Business Services">
-    <meta name="author" content="Ourlimm Consulting & IT Business Services">
+    <meta name="description" content="Ourlimm Consulting IT Business Services">
+    <meta name="author" content="Ourlimm Consulting IT Business Services">
     <meta name="email" content="informes@ourlimm.com">
     <meta content="company" property="og:type" />
     <meta content="http://www.ourlimm.com/" property="og:url" />
@@ -288,7 +288,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="index.php#">Ourlimm Consulting & IT Business Services</a>
+            <a class="brand" href="index.php#">Ourlimm Consulting IT Business Services</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
@@ -302,6 +302,7 @@
                     <li><a href="index.php#">Deontología Corporativa</a></li>
                     <li><a href="index.php#">Nuestra Gente</a></li>
                     <li><a href="index.php#">Responsabilidad Social</a></li>
+                    <li><a href="index.php#">Eventos</a></li>
                   </ul>
                 </li>
                 <!---->
@@ -342,8 +343,9 @@
                  <li class="dropdown">
                   <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">Startups <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                   <li class="nav-header">Insigths</li>
-                    <li><a href="index.php#">Ideas y Modelos de Negocio</a></li>                     
+                   <li class="nav-header">Startups</li>
+                    <li><a href="index.php#">Ideas y Modelos de Negocio</a></li>      
+                    <li><a href="index.php#">Novedades</a></li>                 
                   </ul>
                 </li>
                 <!---->
@@ -352,7 +354,8 @@
                   <ul class="dropdown-menu">
                    <li class="nav-header">Insigths</li>
                     <li><a href="index.php#">Perspectivas de la Industria</a></li>  
-                    <li><a href="index.php#">Capacidad de Ideas</a></li>                    
+                    <li><a href="index.php#">Capacidad de Ideas</a></li>  
+                    <li><a href="index.php#">Novedades</a></li>                    
                   </ul>
                 </li>
                 <!---->
@@ -364,23 +367,12 @@
                   </ul>
                 </li>
                 <!---->
-                 <li class="dropdown">
-                  <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">Noticias<b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li class="nav-header">IT News</li>
-                    <li><a href="index.php#">Mundial</a></li>
-                    <li><a href="index.php#">Local</a></li>
-                    <li><a href="index.php#">Comunidades</a></li>
-                    <li><a href="index.php#">Eventos</a></li>                                    
-                  </ul>
-                </li>
+              
                 <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
                 <li class="dropdown">
                   <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">Contáctenos <b class="caret"></b></a>
                   <ul class="dropdown-menu">  
-                  <li class="nav-header">Vía</li>                 
-                    <li><a href="index.php">E-mail</a></li>
-                    <li><a href="index.php#">Móvil</a></li>
+                  <li class="nav-header">Vía</li>
                     <li><a href="index.php#">Google+</a></li>    
                      <li><a href="index.php#">Facebook</a></li>  
                       <li><a href="index.php#">Twitter</a></li>  
@@ -405,7 +397,7 @@
           <img src="assets/img/slide-01.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Consultoría IT.</h1>
+              <h1>Consultoría en TI.</h1>
               <p class="lead">Servicio de consultoría en Sistemas de Información.</p>
               <a class="btn btn-large btn-primary" href="carousel.html#">Conoce nuestros servicios aquí.</a>
             </div>
@@ -415,7 +407,7 @@
           <img src="assets/img/slide-02.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Consultoría IT.</h1>
+              <h1>Consultoría en TI.</h1>
               <p class="lead">Servicio de consultoría en Sistemas de Información.</p>
               <a class="btn btn-large btn-primary" href="carousel.html#">Conoce nuestros servicios aquí.</a>
             </div>
@@ -425,7 +417,7 @@
           <img src="assets/img/slide-03.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Consultoría IT.</h1>
+              <h1>Consultoría en TI.</h1>
               <p class="lead">Servicio de consultoría en Sistemas de Información.</p>
               <a class="btn btn-large btn-primary" href="carousel.html#">Conoce nuestros servicios aquí.</a>
             </div>
@@ -511,7 +503,16 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="index.php#">Back to top</a></p>
-        <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados · <a href="index.php#">Políticas de Privacidad</a> · <a href="index.php#">Términos de Uso</a> ·  <a href="index.php#">Consultoría y Servicios IT</a> ·  <a href="index.php#">Contáctenos</a> </p>
+        <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados</p>
+        <p>
+          <a href="index.php#">Consultoría y Servicios TI</a> ·
+          <a href="index.php#">Partners</a> · 
+          <a href="index.php#">Responsabilidad Social</a> ·
+          <a href="index.php#">Accesbilidad Web</a> ·
+          <a href="index.php#">Políticas de Privacidad</a> · 
+          <a href="index.php#">Términos de Uso</a> ·  
+          <a href="index.php#">Contáctenos</a> 
+        </p>
       </footer>
 
     </div><!-- /.container -->
