@@ -288,7 +288,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="index.php#">Ourlimm Consulting IT Business Services</a>
+            <a class="brand" href="index.php#">Ourlimm SAC</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
@@ -501,37 +501,13 @@
 
 
       <!-- FOOTER -->
-      <!--<footer>
-        <p class="pull-right"><a href="index.php#">Back to top</a></p>
-        <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados</p>
-        <p>
-          <a href="index.php#">Consultoría y Servicios TI</a> ·
-          <a href="index.php#">Partners</a> · 
-          <a href="index.php#">Responsabilidad Social</a> ·
-          <a href="index.php#">Accesbilidad Web</a> ·
-          <a href="index.php#">Políticas de Privacidad</a> · 
-          <a href="index.php#">Términos de Uso</a> ·  
-          <a href="index.php#">Contáctenos</a> 
-        </p>
-      </footer>-->
+      <footer>
 
 
-
-    </div><!-- /.container -->
-
-
-
-<footer class="modal-footer">
- 
-<img src="assets/img/ourlimmlog3_jpg.jpg" style="width:200px;height-200px;"><br>
+<img src="assets/img/ourlimmlog2_jpg.jpg" style="width:200px;height-200px;"><br>
 <p><p>  Consultoría de Tecnología de la Información</p></p>
 
-<div class="ourlimmfooter">
-
-
-</div>
-
-        <blockquote>
+      <blockquote>
           <p>Nosotros</p>
           <p><a href="index.php#">Deontología Coporativa</a>
             <br><a href="index.php#">Nuestra Compañía</a>
@@ -577,9 +553,8 @@
           </p>
         </blockquote>
 
-        <br><br><br><br><br><br>
-
-<p class="pull-left"><a href="index.php#">Back to top</a></p><br><br>
+<br><br><br><br>
+        <p class="pull-right"><a href="index.php#">Back to top</a></p>
         <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados</p>
         <p>
           <a href="index.php#">Consultoría y Servicios TI</a> ·
@@ -590,10 +565,15 @@
           <a href="index.php#">Términos de Uso</a> ·  
           <a href="index.php#">Contáctenos</a> 
         </p>
+      </footer>
 
 
 
-</footer>
+    </div><!-- /.container -->
+
+
+
+
 
 
 
