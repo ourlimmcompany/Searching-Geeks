@@ -501,7 +501,7 @@
 
 
       <!-- FOOTER -->
-      <footer>
+      <!--<footer>
         <p class="pull-right"><a href="index.php#">Back to top</a></p>
         <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados</p>
         <p>
@@ -513,9 +513,87 @@
           <a href="index.php#">Términos de Uso</a> ·  
           <a href="index.php#">Contáctenos</a> 
         </p>
-      </footer>
+      </footer>-->
+
+
 
     </div><!-- /.container -->
+
+
+
+<footer class="modal-footer">
+ 
+<img src="assets/img/ourlimmlog3_jpg.jpg" style="width:200px;height-200px;">
+
+<div class="ourlimmfooter">
+
+
+</div>
+
+        <blockquote>
+          <p>Nosotros</p>
+          <p><a href="index.php#">Deontología Coporativa</a>
+            <br><a href="index.php#">Nuestra Compañía</a>
+            <br><a href="index.php#">Relaciones Públicas</a>
+            <br><a href="index.php#">Prensa</a>
+            <br><a href="index.php#">Anuncios</a></p>
+
+        </blockquote>
+
+<blockquote>
+          <p>Trabaja en Ourlimm</p>
+          <p><a href="index.php#">Bolsa de Trabajo</a>
+            </p>
+        </blockquote>
+
+        <blockquote style="margin-left: 320px;margin-top: -215px;">
+          <p>Consultoría</p>
+          <p><a href="index.php#">Tecnologías de la Información (TI)</a>
+            <br><a href="index.php#">Sistemas</a>
+            <br><a href="index.php#">Empresarial</a>
+            <br><a href="index.php#">Administración Estratégica</a>
+            <br><a href="index.php#">Redes</a>
+            <br><a href="index.php#">Google Apps</a>
+            <br><a href="index.php#">Google Engage & Adwords</a>
+          </p>
+        </blockquote>
+
+        <blockquote style="margin-left: 620px;margin-top: -195px;">
+           <p>Social Media</p>
+            <p><a href="index.php#">Google+</a>
+            <br><a href="index.php#">Facebook</a>
+            <br><a href="index.php#">Twitter</a>
+          </p>
+        </blockquote>
+
+        <blockquote style="margin-left: 820px;margin-top: -110px;">
+               <p>Links</p>
+            <p><a href="index.php#">Mi Cuenta</a>
+            <br><a href="index.php#">Tecnología</a>
+            <br><a href="index.php#">Servicio al Cliente</a>
+            <br><a href="index.php#">¿Qué hay de nuevo?</a>
+            <br><a href="index.php#">FAQs</a>
+          </p>
+        </blockquote>
+
+        <br><br><br><br><br><br>
+
+<p class="pull-left"><a href="index.php#">Back to top</a></p><br><br>
+        <p>© 2013 Ourlimm SAC. Todos los Derechos Reservados</p>
+        <p>
+          <a href="index.php#">Consultoría y Servicios TI</a> ·
+          <a href="index.php#">Partners</a> · 
+          <a href="index.php#">Responsabilidad Social</a> ·
+          <a href="index.php#">Accesbilidad Web</a> ·
+          <a href="index.php#">Políticas de Privacidad</a> · 
+          <a href="index.php#">Términos de Uso</a> ·  
+          <a href="index.php#">Contáctenos</a> 
+        </p>
+
+
+
+</footer>
+
 
 
 
