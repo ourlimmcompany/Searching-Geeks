@@ -523,7 +523,8 @@
 
 <footer class="modal-footer">
  
-<img src="assets/img/ourlimmlog3_jpg.jpg" style="width:200px;height-200px;">
+<img src="assets/img/ourlimmlog3_jpg.jpg" style="width:200px;height-200px;"><br>
+<p><p>  Consultoría de Tecnología de la Información</p></p>
 
 <div class="ourlimmfooter">
 
